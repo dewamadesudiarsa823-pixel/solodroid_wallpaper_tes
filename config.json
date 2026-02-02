@@ -57,7 +57,7 @@
       "native_ad_interval_grid2": 7,
       "native_ad_interval_grid3": 10,
       "native_ad_style": "medium",
-      "show_banner_ad_home": true,
+      "show_banner_ad_home": false,
       "show_banner_ad_wallpaper_details": true,
       "show_banner_ad_category_details": true,
       "show_banner_ad_search": false,
@@ -551,4 +551,5 @@
       "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
     }
   ]
+
 }
