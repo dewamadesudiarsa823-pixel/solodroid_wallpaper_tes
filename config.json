@@ -72,457 +72,426 @@
   "categories": [
     {
       "category_id": 1,
-      "category_name": "Nature",
+      "category_name": "#SillySmile2026",
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
     },
-    {
+	{
       "category_id": 2,
-      "category_name": "Sunset",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/sunset.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
     },
-    {
+	{
       "category_id": 3,
-      "category_name": "Animal",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
-    },
-    {
-      "category_id": 4,
-      "category_name": "Forest",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg"
-    },
-    {
-      "category_id": 5,
-      "category_name": "City",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/city.jpg"
-    },
-    {
-      "category_id": 6,
-      "category_name": "Flower",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/flower.jpg"
-    },
-    {
-      "category_id": 7,
-      "category_name": "Live Wallpaper",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/live.jpg"
-    },
-    {
-      "category_id": 8,
-      "category_name": "Beach",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/beach.jpg"
-    },
-    {
-      "category_id": 9,
-      "category_name": "House",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/house.jpg"
-    },
-    {
-      "category_id": 10,
-      "category_name": "Space",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/space.jpg"
-    },
-    {
-      "category_id": 11,
-      "category_name": "Mountain",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/mountain.jpg"
-    },
-    {
-      "category_id": 12,
-      "category_name": "Road",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/road.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
     }
   ],
   "wallpapers": [
     {
       "wallpaper_id": 1,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature1.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 1",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_1.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_1.mp4"
     },
-    {
+	{
       "wallpaper_id": 2,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature2.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 2",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_2.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_2.mp4"
     },
-    {
+	{
       "wallpaper_id": 3,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature3.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 3",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_3.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_3.mp4"
     },
-    {
+	{
       "wallpaper_id": 4,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature4.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 4",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_4.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_4.mp4"
     },
-    {
+	{
       "wallpaper_id": 5,
-      "category_name": "Nature",
-      "wallpaper_name": "Nature 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/nature5.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 5",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_5.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_5.mp4"
     },
-    {
+	{
       "wallpaper_id": 6,
-      "category_name": "Sunset",
-      "wallpaper_name": "Sunset 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset1.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 6",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_6.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_6.mp4"
     },
-    {
+	{
       "wallpaper_id": 7,
-      "category_name": "Sunset",
-      "wallpaper_name": "Sunset 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset2.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 7",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_7.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_7.mp4"
     },
-    {
+	{
       "wallpaper_id": 8,
-      "category_name": "Sunset",
-      "wallpaper_name": "Sunset 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/sunset3.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 8",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_8.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_8.mp4"
     },
-    {
+	{
       "wallpaper_id": 9,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal1.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 9",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_9.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_9.mp4"
     },
-    {
+	{
       "wallpaper_id": 10,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal2.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 10",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_10.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_10.mp4"
     },
-    {
+	{
       "wallpaper_id": 11,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal3.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 11",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_11.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_11.mp4"
     },
-    {
+	{
       "wallpaper_id": 12,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal4.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 12",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_12.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_12.mp4"
     },
-    {
+	{
       "wallpaper_id": 13,
-      "category_name": "Animal",
-      "wallpaper_name": "Animal 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/animal5.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 13",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_13.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_13.mp4"
     },
-    {
+	{
       "wallpaper_id": 14,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest1.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 14",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_14.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_14.mp4"
     },
-    {
+	{
       "wallpaper_id": 15,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest2.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 15",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_15.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_15.mp4"
     },
-    {
+	{
       "wallpaper_id": 16,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest3.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 16",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_16.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_16.mp4"
     },
-    {
+	{
       "wallpaper_id": 17,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest4.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 17",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_17.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_17.mp4"
     },
-    {
+	{
       "wallpaper_id": 18,
-      "category_name": "Forest",
-      "wallpaper_name": "Forest 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/forest5.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 18",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_18.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_18.mp4"
     },
-    {
+	{
       "wallpaper_id": 19,
-      "category_name": "City",
-      "wallpaper_name": "City 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city1.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 19",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_19.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_19.mp4"
     },
-    {
+	{
       "wallpaper_id": 20,
-      "category_name": "City",
-      "wallpaper_name": "City 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city2.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 20",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_20.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_20.mp4"
     },
-    {
+	{
       "wallpaper_id": 21,
-      "category_name": "City",
-      "wallpaper_name": "City 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city3.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 21",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_21.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_21.mp4"
     },
-    {
+	{
       "wallpaper_id": 22,
-      "category_name": "City",
-      "wallpaper_name": "City 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city4.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 22",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_22.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_22.mp4"
     },
-    {
+	{
       "wallpaper_id": 23,
-      "category_name": "City",
-      "wallpaper_name": "City 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/city5.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 23",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_23.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_23.mp4"
     },
-    {
+	{
       "wallpaper_id": 24,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower1.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 24",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_24.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_24.mp4"
     },
-    {
+	{
       "wallpaper_id": 25,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower2.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 25",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_25.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_25.mp4"
     },
-    {
+	{
       "wallpaper_id": 26,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower3.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 26",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_26.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_26.mp4"
     },
-    {
+	{
       "wallpaper_id": 27,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower4.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 27",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_27.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_27.mp4"
     },
-    {
+	{
       "wallpaper_id": 28,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower5.jpg"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 28",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_28.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_28.mp4"
     },
-    {
+	{
       "wallpaper_id": 29,
-      "category_name": "Flower",
-      "wallpaper_name": "Flower 6",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/flower6.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 29",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_29.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_29.mp4"
     },
-    {
+	{
       "wallpaper_id": 30,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach1.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 30",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_30.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_30.mp4"
     },
-    {
+	{
       "wallpaper_id": 31,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach2.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 31",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_31.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_31.mp4"
     },
-    {
+	{
       "wallpaper_id": 32,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach3.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 32",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_32.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_32.mp4"
     },
-    {
+	{
       "wallpaper_id": 33,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach4.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 33",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_33.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_33.mp4"
     },
-    {
+	{
       "wallpaper_id": 34,
-      "category_name": "Beach",
-      "wallpaper_name": "Beach 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/beach5.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 34",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_34.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_34.mp4"
     },
-    {
+	{
       "wallpaper_id": 35,
-      "category_name": "House",
-      "wallpaper_name": "House 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house1.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 35",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_35.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_35.mp4"
     },
-    {
+	{
       "wallpaper_id": 36,
-      "category_name": "House",
-      "wallpaper_name": "House 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/house2.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 36",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_36.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_36.mp4"
     },
-    {
+	{
       "wallpaper_id": 37,
-      "category_name": "Space",
-      "wallpaper_name": "Space 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space1.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 37",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_37.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_37.mp4"
     },
-    {
+	{
       "wallpaper_id": 38,
-      "category_name": "Space",
-      "wallpaper_name": "Space 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space2.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 38",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_38.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_38.mp4"
     },
-    {
+	{
       "wallpaper_id": 39,
-      "category_name": "Space",
-      "wallpaper_name": "Space 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space3.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 39",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_39.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_39.mp4"
     },
-    {
+	{
       "wallpaper_id": 40,
-      "category_name": "Space",
-      "wallpaper_name": "Space 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space4.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 40",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_40.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_40.mp4"
     },
-    {
+	{
       "wallpaper_id": 41,
-      "category_name": "Space",
-      "wallpaper_name": "Space 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/space5.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 41",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_41.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_41.mp4"
     },
-    {
+	{
       "wallpaper_id": 42,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain1.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 42",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_42.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_42.mp4"
     },
-    {
+	{
       "wallpaper_id": 43,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain2.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 43",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_43.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_43.mp4"
     },
-    {
+	{
       "wallpaper_id": 44,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain3.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 44",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_44.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_44.mp4"
     },
-    {
+	{
       "wallpaper_id": 45,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain4.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 45",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_45.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_45.mp4"
     },
-    {
+	{
       "wallpaper_id": 46,
-      "category_name": "Mountain",
-      "wallpaper_name": "Mountain 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/mountain5.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 46",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_46.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_46.mp4"
     },
-    {
+	{
       "wallpaper_id": 47,
-      "category_name": "Road",
-      "wallpaper_name": "Road 1",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road1.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 47",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_47.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_47.mp4"
     },
-    {
+	{
       "wallpaper_id": 48,
-      "category_name": "Road",
-      "wallpaper_name": "Road 2",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road2.jpg"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 48",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_48.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_48.mp4"
     },
-    {
+	{
       "wallpaper_id": 49,
-      "category_name": "Road",
-      "wallpaper_name": "Road 3",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road3.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 49",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_49.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_49.mp4"
     },
-    {
+	{
       "wallpaper_id": 50,
-      "category_name": "Road",
-      "wallpaper_name": "Road 4",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road4.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 50",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_50.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_50.mp4"
     },
-    {
+	{
       "wallpaper_id": 51,
-      "category_name": "Road",
-      "wallpaper_name": "Road 5",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/road5.jpg"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 51",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_51.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_51.mp4"
     },
-    {
+	{
       "wallpaper_id": 52,
-      "category_name": "Live Wallpaper",
-      "wallpaper_name": "Live 1",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live1.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live1.gif"
+      "category_name": "Fake Gun Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 52",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_52.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_52.mp4"
     },
-    {
+	{
       "wallpaper_id": 53,
-      "category_name": "Live Wallpaper",
-      "wallpaper_name": "Live 2",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live2.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live2.gif"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 53",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_53.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_53.mp4"
     },
-    {
+	{
       "wallpaper_id": 54,
-      "category_name": "Live Wallpaper",
-      "wallpaper_name": "Live 3",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live3.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live3.gif"
+      "category_name": "#SillySmile2026",
+      "wallpaper_name": "Silly Smile Live Wallpaper 54",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_54.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_54.mp4"
     },
-    {
+	{
       "wallpaper_id": 55,
-      "category_name": "Live Wallpaper",
-      "wallpaper_name": "Live 4",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live4.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live4.mp4"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 55",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_55.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_55.mp4"
     },
-    {
+	{
       "wallpaper_id": 56,
-      "category_name": "Live Wallpaper",
-      "wallpaper_name": "Live 5",
-      "wallpaper_thumbnail": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail/live5.jpg",
-      "wallpaper_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/live5.mp4"
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 56",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_56.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_56.mp4"
+    },
+	{
+      "wallpaper_id": 57,
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 57",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_57.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_57.mp4"
+    },
+	{
+      "wallpaper_id": 58,
+      "category_name": "Silly Live Wallpapers",
+      "wallpaper_name": "Silly Smile Live Wallpaper 58",
+      "wallpaper_thumbnail": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/gambar_smile_58.png",
+      "wallpaper_url": "https://raw.githubusercontent.com/dewamadesudiarsa1-lgtm/silly_smile_live_wallpaper/main/smile_58.mp4"
     }
   ],
   "more_apps": [
@@ -531,25 +500,6 @@
       "title": "Guide Json",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
       "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
-    },
-    {
-      "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
-    },
-    {
-      "id": 4,
-      "title": "Wallpaper Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
     }
   ]
-
 }
