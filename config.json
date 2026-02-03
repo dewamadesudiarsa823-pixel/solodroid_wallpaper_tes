@@ -63,7 +63,7 @@
       "show_banner_ad_search": false,
       "show_interstitial_ad_wallpaper_list": true,
       "show_interstitial_ad_wallpaper_details": true,
-      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_wallpaper_list": false,
       "show_native_ad_exit_dialog": false,
       "show_open_ad_on_app_start": false,
       "show_open_ad_on_app_resume": false
@@ -503,4 +503,5 @@
     }
   ]
 }
+
 
